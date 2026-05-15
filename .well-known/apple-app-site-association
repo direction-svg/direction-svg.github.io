@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7969D6WZ88.com.direction.fittrackpro",
+        "paths": [
+          "/fittrack-app/*",
+          "/fittrack-app"
+        ]
+      }
+    ]
+  }
+}
